@@ -22,5 +22,11 @@ const styles = StyleSheet.create({
         justifyContent: 'space-between',
         alignItems:'center'
     },
+  input:{
+    width:'80%', 
+    borderColor:'black',
+    borderWidth:1,
+    padding:10
+  }
 }) 
 export default GoalInput;
